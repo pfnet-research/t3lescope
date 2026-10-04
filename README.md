@@ -4,7 +4,8 @@ Atsuhiro Noguchi<sup>1</sup>, Tianhan Xu<sup>1</sup>, Yiming Liang<sup>1</sup>, 
 
 <sup>1</sup>Preferred Networks, Inc. &nbsp; <sup>2</sup>The University of Tokyo
 
-[[arXiv]](https://arxiv.org/abs/XXXX.XXXXX) [[Project page]](https://pfnet-research.github.io/t3lescope/)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Project page](https://img.shields.io/badge/Project-Page-blue.svg)](https://pfnet-research.github.io/t3lescope/)
 
 ![T3lescope teaser](assets/teaser.jpg)
 
