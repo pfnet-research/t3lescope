@@ -6,6 +6,7 @@ Atsuhiro Noguchi<sup>1</sup>, Tianhan Xu<sup>1</sup>, Yiming Liang<sup>1</sup>, 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.03308-b31b1b.svg)](https://arxiv.org/abs/2610.03308)
 [![Project page](https://img.shields.io/badge/Project-Page-blue.svg)](https://pfnet-research.github.io/t3lescope/)
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red.svg)](https://youtu.be/XNN1xVOq87c)
 
 ![T3lescope teaser](assets/teaser.jpg)
 
