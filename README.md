@@ -4,7 +4,7 @@ Atsuhiro Noguchi<sup>1</sup>, Tianhan Xu<sup>1</sup>, Yiming Liang<sup>1</sup>, 
 
 <sup>1</sup>Preferred Networks, Inc. &nbsp; <sup>2</sup>The University of Tokyo
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.03308-b31b1b.svg)](https://arxiv.org/abs/2610.03308)
 [![Project page](https://img.shields.io/badge/Project-Page-blue.svg)](https://pfnet-research.github.io/t3lescope/)
 
 ![T3lescope teaser](assets/teaser.jpg)
@@ -25,7 +25,7 @@ On indoor, outdoor, and city-scale scenes, T3lescope outperforms feed-forward an
 @article{noguchi2026t3lescope,
   title   = {T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images},
   author  = {Noguchi, Atsuhiro and Xu, Tianhan and Liang, Yiming and Kikuchi, Yuta and Ishiyama, Masahiro and Takagi, Shintaro and Murai, Hitoshi and Matsumoto, Eiichi},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2610.03308},
   year    = {2026}
 }
 ```
